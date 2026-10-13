@@ -1,6 +1,6 @@
 bank=int(input("enter your amount:"))
 if bank>0:
-    print("amount is open")
+    print("account is open")
     
     print("enter1(for deposite)")
     print("enter2(for withdraw)")
